@@ -86,60 +86,70 @@ Simple "add water" CSS3 fade in and fade out animations by Chris Wahlfeldt
     -webkit-animation-delay: 0.1s;
     -moz-animation-delay: 0.1s;
     -o-animation-delay: 0.1s;
+    -ms-animation-delay: 0.1s;
     animation-delay: 0.1s;
 }
 .zero-two {
     -webkit-animation-delay: 0.2s;
     -moz-animation-delay: 0.2s;
     -o-animation-delay: 0.2s;
+    -ms-animation-delay: 0.2s;
     animation-delay: 0.2s;
 }
 .zero-three {
     -webkit-animation-delay: 0.3s;
     -moz-animation-delay: 0.3s;
     -o-animation-delay: 0.3s;
+    -ms-animation-delay: 0.3s;
     animation-delay: 0.3s;
 }
 .zero-four {
     -webkit-animation-delay: 0.4s;
     -moz-animation-delay: 0.4s;
     -o-animation-delay: 0.4s;
+    -ms-animation-delay: 0.4s;
     animation-delay: 0.4s;
 }
 .zero-five {
     -webkit-animation-delay: 0.5s;
     -moz-animation-delay: 0.5s;
     -o-animation-delay: 0.5s;
+    -ms-animation-delay: 0.5s;
     animation-delay: 0.5s;
 }
 .zero-six {
     -webkit-animation-delay: 0.6s;
     -moz-animation-delay: 0.6s;
     -o-animation-delay: 0.6s;
+    -ms-animation-delay: 0.6s;
     animation-delay: 0.6s;
 }
 .zero-seven {
     -webkit-animation-delay: 0.7s;
     -moz-animation-delay: 0.7s;
-    -o-animation-delay: 0.1s;
+    -o-animation-delay: 0.7s;
+    -ms-animation-delay: 0.7s;
     animation-delay: 0.7s;
 }
 .zero-eight {
     -webkit-animation-delay: 0.8s;
     -moz-animation-delay: 0.8s;
     -o-animation-delay: 0.8s;
+    -ms-animation-delay: 0.8s;
     animation-delay: 0.8s;
 }
 .zero-nine {
     -webkit-animation-delay: 0.9s;
     -moz-animation-delay: 0.9s;
     -o-animation-delay: 0.9s;
+    -ms-animation-delay: 0.9s;
     animation-delay: 0.9s;
 }
 .one {
     -webkit-animation-delay: 1s;
     -moz-animation-delay: 1s;
     -o-animation-delay: 1s;
+    -ms-animation-delay: 1s;
     animation-delay: 1s;
 }
 .one-one {
@@ -194,6 +204,7 @@ Simple "add water" CSS3 fade in and fade out animations by Chris Wahlfeldt
     -webkit-animation-delay: 1.9s;
     -moz-animation-delay: 1.9s;
     -o-animation-delay: 1.9s;
+    -ms-animation-delay: ;
     animation-delay: 1.9s;
 }
 .two {

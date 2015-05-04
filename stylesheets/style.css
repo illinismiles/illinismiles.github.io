@@ -3,7 +3,6 @@ html {
     min-height: 100%;
 }
 body {
-    /* Margin bottom by footer height */
     margin-bottom: 50px;
 }
 .footer {
@@ -12,7 +11,6 @@ body {
     position: absolute;
     bottom: 0;
     width: 100%;
-    /* Set the fixed height of the footer here */
     height: 50px;
     background-color: #f5f5f5;
 }
@@ -46,6 +44,16 @@ body {
 .thumbnail>img {
     max-width: 150%;
     margin-left: -200px;
+}
+@media screen and (min-width: 1720px) {
+    .carousel-inner>.item>a>img,
+    .carousel-inner>.item>img,
+    .img-responsive,
+    .thumbnail a>img,
+    .thumbnail>img {
+        max-width: 150%;
+        margin-left: 0px;
+    }
 }
 @media screen and (max-width: 768px) {
     .hider {
